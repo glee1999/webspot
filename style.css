@@ -95,6 +95,12 @@ body {
     
 }
 
+.home-container {
+    font-size:20px;
+    position:relative;
+    left:2rem;
+}
+
 .home h1 {
     margin-bottom: 5rem;
 }
