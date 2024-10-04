@@ -107,7 +107,7 @@ body {
 .image {
     position: relative;
     bottom: 25rem;
-    left:2rem;
+    left:1rem;
     width: 50rem;
     border-radius: 10px;
     z-index: -1;
@@ -132,8 +132,8 @@ h1 {
 
 .second_image {
     position: relative;
-    right: 55rem;
-    width: 30rem;
+    right: 40rem;
+    width: 40rem;
     bottom: 20rem;
     z-index: -1;
 }
