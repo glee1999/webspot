@@ -96,7 +96,7 @@ body {
 }
 
 .home-container {
-    font-size:30px;
+    font-size:50px;
     position:relative;
     left:5rem;
 }
@@ -113,7 +113,7 @@ body {
 .image {
     position: relative;
     bottom: 25rem;
-    top:5rem;
+    top:10rem;
     left:1rem;
     width: 50rem;
     border-radius: 10px;
